@@ -1,0 +1,17 @@
+{
+  "name": "@types/hls.js",
+  "version": "1.0.0",
+  "description": "Typings for hls.js",
+  "types": "./types/hls.js/index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realeyes-matthew/types-hls.js.git"
+  },
+  "author": "Matthew Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realeyes-matthew/types-hls.js/issues"
+  },
+  "homepage": "https://github.com/realeyes-matthew/types-hls.js#readme"
+}
